@@ -1,0 +1,12 @@
+
+button {
+  position: sticky;
+  top: 10px;
+  right: 10px;
+  color: pink;
+  background-color: green;
+  /* Additional styling as needed */
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+}
